@@ -21,7 +21,7 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-image: url("/b.jpg");
+    background-image: url("b.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
